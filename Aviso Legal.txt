@@ -1,0 +1,24 @@
+Aviso legal:
+
+El Autor no se responsabiliza del uso indebido que esta herramienta pueda tener, ya que el usuario tiene la obligación de utilizarla siempre acorde a la legislación vigente del país donde se utilice.
+
+El uso de nuestro software de análisis wireless debe ser una herramienta básica para profesionales y particulares que ansían conocer el nivel de seguridad de sus instalaciones inalámbricas, queda totalmente prohibido el uso de la misma para cometer actos delictivos de intrusión sobre las redes wireless de las cuales no somos propietarios o no tenemos los permisos pertinentes para analizar su nivel de seguridad. Es vuestra responsabilidad mantener la idea principal por la que se creo seguridad wireless y todo su entorno.
+
+Seguridadwireless no se hace responsable del uso indebido de este software ni da soporte a la intrusión en redes ajenas o sobre las que no se tenga autorización para establecer su auditoria de seguridad.
+
+
+Siempre se debe modificar la configuración por defecto de las aplicaciones o servicios que utilicemos, en especial los datos de acceso como las contraseñas que vienen por defecto.
+
+Todo este problema se solucionaría con una clave aleatoria en el montaje final del equipo.
+
+Este tipo de herramientas son extremadamente útiles para recuperar la clave en caso de pérdida/olvido, previo paso de haber reseteado el equipo, puesto que suponemos que ya hemos modificado la clave por defecto.
+
+Si eres usuario de este tipo de redes WiFi cámbia la clave y pasa a WPA2-AES AHORA.
+
+
+
+Este programa es software libre. Puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General GNU (GPL) publicada por la Free Software Foundation en su versión número 2. Mira http://www.fsf.org/copyleft/gpl.txt.
+
+Lo anterior quiere decir que si modificas y/o redistribuyes este código o partes del mismo debes hacerlo bajo las mismas condiciones anteriores, incluyendo el código fuente modificado y citando a los autores originales.
+
+Este programa se distribuye SIN GARANTIA de ningún tipo. USALO BAJO TU PROPIO RIESGO.
